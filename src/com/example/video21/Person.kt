@@ -1,3 +1,5 @@
+package com.example.video21
+
 class Person(val name: String, var age: Int) {
     fun nextAge(): Int {
         return age + 1
