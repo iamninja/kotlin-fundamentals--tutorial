@@ -1,4 +1,4 @@
-package com.example.pkg1
+package com.example.Section2.pkg1
 
 class Greeter {
     fun hello() = "Hello from pkg1"

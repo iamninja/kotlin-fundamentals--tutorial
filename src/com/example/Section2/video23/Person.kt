@@ -1,4 +1,4 @@
-package com.example.video23
+package com.example.Section2.video23
 
 interface Greeter {
     fun hello(name: String): String

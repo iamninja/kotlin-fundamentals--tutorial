@@ -1,4 +1,4 @@
-package com.example.video22
+package com.example.Section2.video22
 
 //data class Person(val name: String, val age: Int)
 

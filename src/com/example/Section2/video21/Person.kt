@@ -1,4 +1,4 @@
-package com.example.video21
+package com.example.Section2.video21
 
 class Person(val name: String, var age: Int) {
     fun nextAge(): Int {
